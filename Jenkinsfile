@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/agraharambhargav/maven.git'
+                git 'https://github.com/agraharambhargav/maven11.git'
             }
         }
           stage('ContinousBuild_master')
